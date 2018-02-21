@@ -1,0 +1,1 @@
+# Coordonnées pour téléporteur
