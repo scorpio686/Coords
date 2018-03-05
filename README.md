@@ -1,1 +1,1 @@
-# Coordonnées pour téléporteur
+# Coordonnées utiles
